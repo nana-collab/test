@@ -47,8 +47,8 @@ export default function About() {
             <div className="flex-1 space-y-6">
               <div className="transform hover:scale-105 transition-transform">
                 <h3 className="font-bold mb-2 text-blue-600">I AM</h3>
-                <p className="text-gray-700">이름 : 이프로</p>
-                <p className="text-gray-700">포지션: PM 서비스 기획 / FE Developer(jr)</p>
+                <p className="text-gray-700">이름 : 강이나</p>
+                <p className="text-gray-700">포지션: 마케팅 서비스 기획 / FE Developer(jr)</p>
               </div>
               
               <div className="transform hover:scale-105 transition-transform">
